@@ -5,7 +5,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center"><b>CS114.L21 - MÁY HỌC</b></h1>
+<h1 align="center"><b>CS114.O21 - MÁY HỌC</b></h1>
 
 
 
@@ -20,5 +20,5 @@
 * **Tên môn học**: Máy học - MACHINE LEARNING
 * **Mã môn học**: CS114
 * **Lớp học**: CS114.L21
-* **Ngày bắt đầu**: 01/03/2021
-* **Năm học**: 2020-2021
+* **Ngày bắt đầu**: 19/02/2024
+* **Năm học**: 2023-2024
