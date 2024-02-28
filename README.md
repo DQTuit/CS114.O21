@@ -9,12 +9,7 @@
 
 
 
-## BẢNG MỤC LỤC
-* [ Giới thiệu môn học](#gioithieumonhoc)
-* [Quá trình môn học](#quatrinh)
-* [ Giảng viên hướng dẫn](#giangvien)
-* [ Thành viên nhóm](#thanhvien)
-* [ Đồ án môn học](#doan)
+
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Máy học - MACHINE LEARNING
