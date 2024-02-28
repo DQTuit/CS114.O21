@@ -18,3 +18,14 @@
 * **Ngày bắt đầu**: 19/02/2024
 * **Ngày kết thúc**: 08/06/2024
 * **Năm học**: 2023-2024
+
+
+
+## QUÁ TRÌNH MÔN HỌC
+
+
+
+## GIẢNG VIÊN HƯỚNG DẪN
+<a name="giangvien"></a>
+* PGS.TS. **Lê Đình Duy** - *duydl@uit.edu.vn*
+* ThS. **Phạm Nguyễn Trường An** - *truonganpn@uit.ed
