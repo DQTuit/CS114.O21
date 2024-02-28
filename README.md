@@ -28,4 +28,4 @@
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
 * PGS.TS. **Lê Đình Duy** - *duydl@uit.edu.vn*
-* ThS. **Phạm Nguyễn Trường An** - *truonganpn@uit.ed
+* ThS. **Phạm Nguyễn Trường An** - *truonganpn@uit.ed*
